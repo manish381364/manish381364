@@ -20,6 +20,7 @@
 
 # <span style="font-family: Arial; font-size: 24px;">My Projects</span>
 
+- [Bit Media](https://github.com/manish381364/Photos)
 - [JetReader](https://github.com/manish381364/JetReader)
 - [Quizy](https://github.com/manish381364/Quizy)
 
