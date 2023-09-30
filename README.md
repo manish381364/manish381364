@@ -20,7 +20,7 @@
 
 # <span style="font-family: Arial; font-size: 24px;">My Projects</span>
 
-- [Bit Media](https://github.com/manish381364/Photos)
-- [JetReader](https://github.com/manish381364/JetReader)
-- [Quizy](https://github.com/manish381364/Quizy)
+- [Bit Media](https://github.com/manish381364/Photos) <img src="https://github.com/manish381364/Photos/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="image" width="20px" height="20px">
+- [JetReader](https://github.com/manish381364/JetReader) <img src="https://github.com/manish381364/JetReader/blob/master/app/src/main/ic_app_logo-playstore.png" alt="image" width="20px" height="20px">
+- [Quizy](https://github.com/manish381364/Quizy) <img src="https://user-images.githubusercontent.com/76205659/205504184-1e3df423-cb96-49c0-96a7-09ebc66f0355.jpg" alt="image" width="20px" height="20px">
 
